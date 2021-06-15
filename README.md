@@ -20,3 +20,7 @@
 [【实战】Axios取消请求 - CancelToken](https://www.jianshu.com/p/1662e2524c64)
 
 # Build
+
+# 动画
+[SVGA - 全新的动画格式 高性能动画播放体验](http://svga.io/)
+[Lottie - 轻松实现复杂的动画效果](http://airbnb.io/lottie/#/)
