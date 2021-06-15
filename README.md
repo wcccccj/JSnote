@@ -2,6 +2,7 @@
 
 # CI/CD
 [How to Build an Effective Initial Deployment Pipeline](https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline)
+
 [使用 CI/CD 优化前端构建的五种策略](https://mp.weixin.qq.com/s/qWdK3ynOzqP3xxrE4NgOoQ)
 
 # Package
@@ -23,4 +24,5 @@
 
 # 动画
 [SVGA - 全新的动画格式 高性能动画播放体验](http://svga.io/)
+
 [Lottie - 轻松实现复杂的动画效果](http://airbnb.io/lottie/#/)
