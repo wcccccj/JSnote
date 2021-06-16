@@ -26,3 +26,6 @@
 [SVGA - 全新的动画格式 高性能动画播放体验](http://svga.io/)
 
 [Lottie - 轻松实现复杂的动画效果](http://airbnb.io/lottie/#/)
+
+# 曲线救需求
+[element-ui实现单面板时间范围选择器](https://www.jianshu.com/p/06f15c9e14fe)
