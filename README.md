@@ -15,13 +15,16 @@
 [npm卸载并更换指定版本插件](https://github.com/wcccccj/JSnote/blob/master/src/npm/npm%E5%8D%B8%E8%BD%BD%E6%8F%92%E4%BB%B6.md)
 
 # WebWorker
-[前端中如何使用webWorker对户体验进行革命性的提升](https://juejin.cn/post/6970336963647766559) 含腾讯团队对集成 webWorker 的方案的对比
+[前端中如何使用webWorker对户体验进行革命性的提升](https://juejin.cn/post/6970336963647766559) 含腾讯团队对集成 webWorker 的方案的对比  
 
 # HTTP
 
-[【实战】Axios取消请求 - CancelToken](https://www.jianshu.com/p/1662e2524c64)
+[【实战】Axios取消请求 - CancelToken](https://www.jianshu.com/p/1662e2524c64)  
 
 # Build
+
+# Deploy
+[写给前端的 K8S 上手指南](https://zhuanlan.zhihu.com/p/445217118)  
 
 # 动画
 [SVGA - 全新的动画格式 高性能动画播放体验](http://svga.io/)
