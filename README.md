@@ -14,7 +14,8 @@
 
 [npm卸载并更换指定版本插件](https://github.com/wcccccj/JSnote/blob/master/src/npm/npm%E5%8D%B8%E8%BD%BD%E6%8F%92%E4%BB%B6.md)
 
-
+# WebWorker
+[前端中如何使用webWorker对户体验进行革命性的提升](https://juejin.cn/post/6970336963647766559) 含腾讯团队对集成 webWorker 的方案的对比
 
 # HTTP
 
@@ -29,3 +30,4 @@
 
 # 曲线救需求
 [element-ui实现单面板时间范围选择器](https://www.jianshu.com/p/06f15c9e14fe)
+
