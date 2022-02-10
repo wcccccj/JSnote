@@ -25,6 +25,7 @@
 
 # Deploy
 [写给前端的 K8S 上手指南](https://zhuanlan.zhihu.com/p/445217118)  
+[docker+Jenkins+nginx实现前端自动部署详细教程](https://mp.weixin.qq.com/s/bU8Sh8SVn6L7Scxt6-4CZw)
 
 # 动画
 [SVGA - 全新的动画格式 高性能动画播放体验](http://svga.io/)
