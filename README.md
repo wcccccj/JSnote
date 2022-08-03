@@ -1,7 +1,7 @@
 # JSnote
 
 # JS基础
-[闭包原理]()
+[闭包原理](https://juejin.cn/post/7079995358624874509#heading-4)
 
 # CI/CD
 [How to Build an Effective Initial Deployment Pipeline](https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline)
