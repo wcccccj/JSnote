@@ -1,5 +1,8 @@
 # JSnote
 
+# JS基础
+[闭包原理]()
+
 # CI/CD
 [How to Build an Effective Initial Deployment Pipeline](https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline)
 
