@@ -38,3 +38,5 @@
 # 曲线救需求
 [element-ui实现单面板时间范围选择器](https://www.jianshu.com/p/06f15c9e14fe)
 
+# Git
+[Windows下的Git Bash配置，提升你的终端操作体验](https://zhuanlan.zhihu.com/p/418321777)
