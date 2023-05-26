@@ -37,6 +37,14 @@
 
 [各种加载动画css](https://whirl.netlify.app/)
 
+## 水波图的实现（css或canvas）
+https://github.com/guoyoujin/WaterMoire
+https://github.com/newraina/waveLoading.js/tree/master
+https://blog.csdn.net/yy729851376/article/details/120066376
+https://www.cnblogs.com/pagoda/p/9463220.html
+
+
+
 # 曲线救需求
 [element-ui实现单面板时间范围选择器](https://www.jianshu.com/p/06f15c9e14fe)
 
