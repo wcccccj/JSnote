@@ -38,6 +38,9 @@
 
 [各种加载动画css](https://whirl.netlify.app/)
 
+[日夜模式切换switch按钮效果](https://codepen.io/Chokcoco/pen/QWJWqBv)
+[日夜模式切换switch按钮效果(高配版）](https://codepen.io/jh3y/pen/LYgjpYZ)
+
 ## 水波图的实现（css或canvas）
 https://github.com/guoyoujin/WaterMoire
 https://github.com/newraina/waveLoading.js/tree/master
